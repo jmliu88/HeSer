@@ -1,7 +1,7 @@
 # Few-Shot Head Swapping in the Wild (CVPR 2022 Oral)
 Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
 
-### [Project]() | [Paper]() | [Demo](https://www.youtube.com/watch?v=6bIZmptbavU)
+### [Project](https://jmliu88.github.io/HeSer/) | [Paper](https://arxiv.org) | [Demo](https://www.youtube.com/watch?v=6bIZmptbavU)
 
 <img src='./misc/Heser.png' width=800>
 
